@@ -1,0 +1,17 @@
+# Build artifacts
+expense_tracker
+*.o
+*.out
+
+# Editor files
+.vscode/
+*.swp
+*~
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Project-specific
+expenses.txt
+test_expenses.txt
